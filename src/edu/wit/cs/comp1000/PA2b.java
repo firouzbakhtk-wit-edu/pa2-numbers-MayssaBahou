@@ -2,17 +2,10 @@ package edu.wit.cs.comp1000;
 
 import java.util.Scanner;
 
-/**
- * A class to solve a quadratic equation of the form ax^2 + bx + c = 0.
- * It calculates and outputs the roots based on the discriminant.
- */
+
 public class PA2b {
 
-    /**
-     * Main method that prompts the user for coefficients a, b, and c,
-     * then calculates and displays the roots based on the discriminant.
-     * @param args Command line arguments (not used).
-     */
+   
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
